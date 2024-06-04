@@ -1,0 +1,21 @@
+
+
+.p1{
+    border: 2px solid red;
+}
+
+.p2{
+    border: 2px solid black;
+}
+
+.s1{
+    border :2px solid red ;
+}
+
+.s2{
+    border :3px solid black;
+}
+
+.inline-block{
+    display: block;
+}

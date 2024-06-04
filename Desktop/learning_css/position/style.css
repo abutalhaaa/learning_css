@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: gray;
+    padding: 50px;
+    height: 2000px;
+}
+
+.parents{
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    background: ivory;
+}
+
+.child-1{
+    
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: sticky;
+    top: 0;
+    
+
+}
+
+.child-2{
+   
+    width: 100px;
+    height: 100px;
+    background:orange;
+    
+  
+
+}

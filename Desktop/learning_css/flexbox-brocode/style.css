@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+    border: 8px solid black;
+    height: 80vh;
+    /* flex-wrap: wrap;
+    align-content: flex-start;
+    column-gap: 3em;
+    row-gap: 3em; */
+}
+
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    font-size: 5em;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#box1{
+    background-color: aqua;
+    align-self: center;
+}
+#box2{
+    
+    background-color:gold;
+}
+#box3{
+    background-color:red;
+}
+
+#box4{
+    background-color: rgb(0, 32, 128);
+}
+
+/* #box5{
+    background-color: rgb(72, 0, 255);
+}
+#box6{
+    background-color:antiquewhite;
+}
+#box7{
+    background-color:pink;
+}
+
+#box8{
+    background-color: slategrey;
+}
+#box9{
+    background-color: sandybrown;
+} */
